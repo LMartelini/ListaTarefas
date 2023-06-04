@@ -27,12 +27,14 @@ h1{
     padding: 12px;
     padding-right: 100px;
     border-radius: 10px;
+    border: transparent;
 }
 
 #confirma{
     padding: 14px 18px;
     border-radius: 25px;
     margin-left: 10px;
+    border: transparent;
 }
 
 .div{
@@ -47,7 +49,7 @@ h1{
     padding: 10px;
     background-color: rgb(30, 138, 30);
     border-radius: 30px;
-    border-color: rgb(30, 138, 30);
+    border: transparent;
     color: white;
     height: 40px;
     width: 40px;
